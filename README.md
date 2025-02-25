@@ -1,4 +1,6 @@
 # qwen-vllm
+现在改成推理deep seek了
+
 
 [千问官方部署文档](https://github.com/QwenLM/Qwen?tab=readme-ov-file#deployment)
 
